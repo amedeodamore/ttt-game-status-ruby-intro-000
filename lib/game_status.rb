@@ -42,14 +42,3 @@ if winning_position = won?(board)
   board[winning_position.first]
 end
 end
-
-
-
-
-#  if won?(board).include?(X)
-#  print "X"
-#else
-#  print "O"
-#end
-#winner(board)
-#end
